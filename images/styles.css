@@ -1,0 +1,89 @@
+/* .line{
+    padding-top: 10px;
+    display:flex;
+    justify-content: center;
+    color:white;     
+}
+hr {
+    width:8%; 
+    background-color: white; 
+    height:8px; 
+    opacity: 0; 
+     border-width: 0;
+
+} 
+.star {
+color:white; 
+position:relative;
+top:5px;
+padding:0 15px 0 15px;
+} */
+
+
+.line{
+  width: 100px;
+  height: 6px; 
+}
+
+.button:hover {
+  background-color: white;
+  color:black;
+}
+
+  .fa:hover {
+    background-color: white;
+    color: black;
+}
+  .fa-facebook { 
+    color: white;
+    padding: 10px;
+    font-size: 100px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    /* margin: 5px 2px; */
+    border:2px solid white;
+    border-radius: 90%;
+  }
+  
+  
+  .fa-twitter {
+    color: white;
+    padding: 10px;
+    font-size: 100px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    /* margin: 5px 2px; */
+    border:2px solid white;
+    border-radius: 90%;
+  }
+  .fa-linkedin {
+    color: white;
+    padding: 10px;
+    font-size: 100px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    /* margin: 5px 2px; */
+    border:2px solid white;
+    border-radius: 90%;
+  }
+  .fa-dribbble {
+    color: white;
+    padding: 10px;
+    font-size: 100px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    /* margin: 5px 2px; */
+    border:2px solid white;
+    border-radius: 90%;
+  }
+  .flink {
+    color:rgb(55, 107, 55);
+  }
+  .flink:hover {
+    opacity: 0.5;
+}
+ 
